@@ -1,3 +1,5 @@
-This is the steps for my analysis.
+These are the steps for my analysis.
 
 The first step is to import the data.
+
+Once the data is imported we can start to play around with it.
