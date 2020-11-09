@@ -1,1 +1,4 @@
 Notes about my analysis
+	-To import the data I needed to download it from the NCBI GEO page found here:
+	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE133898
+	
