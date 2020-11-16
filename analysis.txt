@@ -5,3 +5,5 @@ The first step is to import the data.
 Once the data is imported we can start to play around with it.
 
 Updating for a 3rd time.
+
+Most of the analysis done here will be using p-value stats tests
